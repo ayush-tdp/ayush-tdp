@@ -3,9 +3,9 @@
 <p><em>Software Developer at <a href="https://thediamondport.com">The Diamond Port</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/VarmaAyush1?style=social)](https://x.com/VarmaAyush1)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/ayush-varma-045733219-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-varma-045733219/)](https://www.linkedin.com/in/ayush-varma-045733219/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/ReactRocket?label=follow&style=social)](https://github.com/ReactRocket)
+[![Twitter: Ayush](https://img.shields.io/twitter/follow/VarmaAyush1?style=social)](https://x.com/VarmaAyush1)
+[![Linkedin: Ayush](https://img.shields.io/badge/ayush-varma-045733219-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-varma-045733219/)](https://www.linkedin.com/in/ayush-varma-045733219/)
+[![GitHub Ayush](https://img.shields.io/github/followers/ReactRocket?label=follow&style=social)](https://github.com/ReactRocket)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
